@@ -1,0 +1,64 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Exemplo3SpringBootTurmaAApplication<exemplo3-spring-boot-turmaA>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "br.com.uam.exemplo3.Exemplo3SpringBootTurmaAApplication",
+            "projectName": "exemplo3-spring-boot-turmaA",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-Exemplo3SpringBootTurmaAApplication<exemplo3-spring-boot-turmaA>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "br.com.uam.exemplo3.Exemplo3SpringBootTurmaAApplication",
+            "projectName": "exemplo3-spring-boot-turmaA",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-Exemplo3SpringBootTurmaAApplication<exemplo3-spring-boot-turmaA>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "br.com.uam.exemplo3.Exemplo3SpringBootTurmaAApplication",
+            "projectName": "exemplo3-spring-boot-turmaA",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-Exemplo3SpringBootTurmaAApplication<exemplo3-spring-boot-turmaA>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "br.com.uam.exemplo3.Exemplo3SpringBootTurmaAApplication",
+            "projectName": "exemplo3-spring-boot-turmaA",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-Exemplo3SpringBootTurmaAApplication<exemplo3-spring-boot-turmaA>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "br.com.uam.exemplo3.Exemplo3SpringBootTurmaAApplication",
+            "projectName": "exemplo3-spring-boot-turmaA",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-Exemplo3SpringBootTurmaAApplication<exemplo2-spring-boot-turmaA>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "br.com.uam.exemplo3.Exemplo3SpringBootTurmaAApplication",
+            "projectName": "exemplo2-spring-boot-turmaA",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
